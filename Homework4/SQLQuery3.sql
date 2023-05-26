@@ -1,0 +1,7 @@
+USE SEDCHome
+GO
+
+SELECT *
+FROM vv_StudentGrades
+ORDER BY Total DESC
+GO
